@@ -1,4 +1,4 @@
-# SmartBulk
+# GPTsplus
 
 This repository consists hosts the following packages
 
