@@ -1,4 +1,4 @@
-# lazily
+# hooks
 
 This repository consists hosts the following packages
 
